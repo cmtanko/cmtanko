@@ -1,5 +1,4 @@
 ### Hey hey, Suchan Badyakar here 👋
-![Github Badge](https://img.shields.io/badge/-cmtanko-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cmtanko/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cmtanko)
 
 [![@cmtanko's Holopin board](https://holopin.me/cmtanko)](https://holopin.io/@cmtanko)
