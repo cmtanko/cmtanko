@@ -1,6 +1,4 @@
 ### Hey hey, Suchan Badyakar here 👋
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cmtanko)
-
 [![@cmtanko's Holopin board](https://holopin.me/cmtanko)](https://holopin.io/@cmtanko)
 
 - Currently working on various projects with Titanium Framework and React Native.
